@@ -1,4 +1,4 @@
-if has(gui_running)
+if has('gui_running')
     :set guifont=Consolas\ 10
     :set guioptions-=m  "remove menu bar
     :set guioptions-=T  "remove toolbar
